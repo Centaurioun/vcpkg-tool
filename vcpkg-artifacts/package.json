@@ -56,14 +56,14 @@
     "fs-constants": "^1.0.0",
     "inherits": "^2.0.3",
     "sed-lite": "0.8.4",
-    "semver": "7.3.5",
+    "semver": "7.7.3",
     "sorted-btree": "1.6.0",
     "strip-ansi": "5.2",
     "tar-stream": "2.2.0",
     "unbzip2-stream": "1.4.3",
     "vscode-uri": "3.0.3",
     "xml-writer": "1.7.0",
-    "yaml": "^2.2.1"
+    "yaml": "^2.2.2"
   },
   "bundleDependencies": [
     "@snyk/nuget-semver",
